@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kj_scuffed_mobs:item/crab_claw"
+  }
+}
